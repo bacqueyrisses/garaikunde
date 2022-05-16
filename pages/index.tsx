@@ -14,8 +14,8 @@ const Home: NextPage = () => {
       </Head>
 
       <main className="flex w-full flex-1 flex-col items-center justify-center px-20 text-center">
-        <h1 className="text-5xl font-bold hover:underline">
-          El Jardín de las Especias
+        <h1 className="text-fuchsia-500 text-5xl font-bold hover:underline">
+        ✨Lena✨
         </h1>
 
         <div className="mt-6 flex max-w-4xl flex-wrap items-center justify-around sm:w-full">
